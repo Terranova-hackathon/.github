@@ -12,8 +12,6 @@ In the code you'll see it called **Lune**, our internal name for the project.
 
 **[Video placeholder: the presentation video goes here]**
 
-**[Summary placeholder: a short description of the project, the difficulties we ran into, and how we solved them]**
-
 ## What LunaNova does
 
 You can search thousands of games by name, with suggestions as you type, and narrow the results by genre, platform, developer, publisher or critic score. Each game has its own page with a description, screenshots, ratings and related games, plus a price comparison showing the current price and the lowest recorded price on Steam and GG.deals. It has a game comparison tool that follows you across pages, letting you add games and compare key features and prices. With a free account you can save games to your favorites and return to them later. The site works on phones as well as desktops, in dark or light mode.
