@@ -34,6 +34,6 @@ We worked mostly asynchronously, coordinating through GitHub issues and reviewin
 
 ## Our repositories
 
-- **[Lune](https://github.com/Terranova-hackathon/lune)** is the LunaNova app itself: backend, frontend, tests and documentation. It was frozen for evaluation on 2026-11-15, so this is the place to start. Its README explains how to [run it yourself]([LUNE_REPO_URL](https://github.com/Terranova-hackathon/lune#quick-start).
+- **[Lune](https://github.com/Terranova-hackathon/lune)** is the LunaNova app itself: backend, frontend, tests and documentation. It was frozen for evaluation on 2026-11-15, so this is the place to start. Its README explains how to [run it yourself](https://github.com/Terranova-hackathon/lune#quick-start).
 - **[AspNet-Angular Prototype](https://github.com/Terranova-hackathon/asp.net-angular-prototype)** is where we taught ourselves ASP.NET Core and Angular before starting on Lune.
 - **[Lune Launch](LAUNCH_REPO_URL)** will hold our experiments with deploying LunaNova to production...for future development.
